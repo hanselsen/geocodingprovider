@@ -1,0 +1,15 @@
+{
+    "name": "hanselsen/geocodingprovider",
+    "description": "One library providing geocode data using indefinite amount of providers like Google Maps",
+    "autoload": {
+        "psr-0" : {
+            "hanselsen\\geocodingprovider" : "src"
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/hanselsen/geocodingprovider"
+        }
+    ]
+}
